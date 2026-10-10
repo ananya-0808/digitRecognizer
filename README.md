@@ -56,9 +56,9 @@ Draw a digit on the white pad, then click **Predict**. Click **Clear** to start 
 
 ## What I learned
 
-- [The model scored well on the test set but struggled on my own drawings until I preprocessed them to match how
-  MNIST images are formatted (cropped, scaled to 20x20, and centered).]
-- [It often confuses 1 up the most, if not centered perfectly]
+- The model scored well on the test set but struggled on my own drawings until I preprocessed them to match how
+  MNIST images are formatted (cropped, scaled to 20x20, and centered).
+- It often confuses 1 up the most, if not centered perfectly
 
 ## Possible improvements
 
